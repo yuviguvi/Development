@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { Table, Input, InputNumber, Popconfirm, Form} from 'antd';
-import { Button, Modal, Radio } from 'antd';
+import { Button, Modal, Radio,Form } from 'antd';
 import {useHistory} from "react-router-dom";
 import post from "../component/post.json";
 
